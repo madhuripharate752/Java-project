@@ -10,6 +10,8 @@ public class ArrayExample {
         marks[4] = 990;
         marks [5] = 880;
         marks [6] = 770;
+        marks [7] = 888880;
+
         for(int i=0; i<7; i++){
             System.out.println(marks[i]);
         }
