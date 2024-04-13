@@ -12,7 +12,7 @@ public class ArrayExample {
         marks [6] = 100000;
         marks [7] = 888880;
         marks [8] = 999990;
-        for(int i=0; i<7; i++){
+        for(int i=0; i<9; i++){
             System.out.println(marks[i]);
         }
 
